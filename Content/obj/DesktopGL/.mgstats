@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Abe/source/repos/Maze/Content/ball.png","C:/Users/Abe/source/repos/Maze/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.1040588
+"C:/Users/Abe/source/repos/Maze/Content/circle.png","C:/Users/Abe/source/repos/Maze/Content/bin/DesktopGL/circle.xnb","TextureProcessor","Texture2DContent",72640,215345,0.011565
+"C:/Users/Abe/source/repos/Maze/Content/main menu.png","C:/Users/Abe/source/repos/Maze/Content/bin/DesktopGL/main menu.xnb","TextureProcessor","Texture2DContent",28391,1440085,0.1268387
+"C:/Users/Abe/source/repos/Maze/Content/main.png","C:/Users/Abe/source/repos/Maze/Content/bin/DesktopGL/main.xnb","TextureProcessor","Texture2DContent",20149,1440085,0.0310696
+"C:/Users/Abe/source/repos/Maze/Content/paper background.png","C:/Users/Abe/source/repos/Maze/Content/bin/DesktopGL/paper background.xnb","TextureProcessor","Texture2DContent",156846,750041,0.0242283
